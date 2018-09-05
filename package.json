@@ -1,0 +1,8 @@
+{
+  "name": "poc-babel-webpack-ios9",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ryo-utsunomiya/poc-babel-webpack-ios9.git",
+  "author": "Ryo Utsunomiya <millionsnowliving@gmail.com>",
+  "license": "MIT"
+}
