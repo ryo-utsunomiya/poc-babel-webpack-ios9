@@ -5,10 +5,16 @@
   "repository": "git@github.com:ryo-utsunomiya/poc-babel-webpack-ios9.git",
   "author": "Ryo Utsunomiya <millionsnowliving@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "babel": "babel src --out-dir dist",
+    "webpack": "webpack"
+  },
   "devDependencies": {
     "@babel/core": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
+    "babel-cli": "^6.26.0",
     "babel-loader": "^8.0.2",
-    "webpack": "^4.17.2"
+    "webpack": "^4.17.2",
+    "webpack-cli": "^3.1.0"
   }
 }
